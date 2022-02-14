@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/3column-preview-card-challenge-using-css-VsEoA9oAK)
 - Live Site URL: [Live Site URL](https://aranuie.github.io/3-column-preview-card-component-main/)
 
 ## My process
